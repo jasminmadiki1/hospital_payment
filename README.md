@@ -1,2 +1,2 @@
 # hospital_payment
-payment website 
+payment website for billing
